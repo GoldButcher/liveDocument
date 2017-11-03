@@ -15,7 +15,7 @@
 
 * response字段示例
 
-> {result:"success",data:"注册成功"}
+> {errorCode:"0",errorInfo:""}
 
 
 

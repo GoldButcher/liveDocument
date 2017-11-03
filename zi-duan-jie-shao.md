@@ -2,15 +2,16 @@
 
 | 字段 | 类型 | 选项 | 说明 |
 | :---: | :---: | :---: | :---: |
-| result | String | 必填 | 执行结果 |
-| data | Object | 必填 | 错误信息/成功信息 |
+| errorCode | String | 必填 | 错误代码 |
+| errorInfo | String | 必填 | 错误信息 |
+| data | Object | 选填 | 返回数据 |
 
-### 错误文字
+### errorCode文字
 
 | 数值 | 说明 |
 | :---: | :---: |
-| success | 执行成功 |
-| error | 执行失败 |
+| 0 | 执行成功 |
+| 1 | 执行失败 |
 
 
 
