@@ -2,7 +2,7 @@
 
 * 请求URL
 
-> http://118.31.2.202/user/registerByPhone
+> [http://118.31.2.202:8080/zhibo/user/registerByPhone](http://118.31.2.202/user/registerByPhone)
 
 * request字段示例:
 
