@@ -15,7 +15,7 @@
 
 * response字段示例
 
-> {result:"success",content:"注册成功"}
+> {result:"success",data:"注册成功"}
 
 
 
