@@ -12,7 +12,8 @@
     "username":"111",
     "sex":"男",
     "age":16,
-    "imgUrl":"xxxxxx"
+    "imgUrl":"xxxxxx",
+    "signature":"666666"
 }
 ```
 
@@ -23,6 +24,7 @@
 | sex | String | 选填 | 用户性别 |
 | age | Integer | 选填 | 用户年龄 |
 | imgUrl | String | 选填 | 用户头像 |
+| signature | String | 选填 | 用户个性签名 |
 
 * response字段示例
 
