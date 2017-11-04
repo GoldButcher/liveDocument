@@ -38,7 +38,8 @@ response字段示例
         "logoutTime": null,
         "lastRequestTime": 1509689229,
         "currentAppId": "1400044902",
-        "phone": "111"
+        "phone": "111",
+        "signature":"666666"
     },
     "errorCode": "0",
     "errorInfo": ""
