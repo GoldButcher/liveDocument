@@ -2,7 +2,7 @@
 
 * 请求url
 
-> [http://118.31.2.202:8080/zhibo/roomAccount/create](http://118.31.2.202:8080/zhibo/roomAccount/create)
+[http://118.31.2.202:8080/zhibo/roomAccount/](http://118.31.2.202:8080/zhibo/roomAccount/create)get
 
 request字段示例
 
