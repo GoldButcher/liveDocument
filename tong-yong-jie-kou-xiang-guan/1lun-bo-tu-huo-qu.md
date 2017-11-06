@@ -2,7 +2,7 @@
 
 * 请求url
 
-> [http://118.31.2.202:8080/ad/getAdList](http://118.31.2.202:8080/ad/getAdList)
+> [http://118.31.2.202:8080/zhibo/ad/getAdList](http://118.31.2.202:8080/ad/getAdList)
 
 * response返回示例
 
