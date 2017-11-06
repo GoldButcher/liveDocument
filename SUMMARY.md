@@ -11,6 +11,7 @@
   * [2.编辑用户信息](2bian-ji-yong-hu-xin-xi.md)
 * [房间相关](fang-jian-xiang-guan.md)
   * [1.房间创建](fang-jian-xiang-guan/1fang-jian-chuang-jian.md)
+  * [2.修改位置信息](fang-jian-xiang-guan/2xiu-gai-fang-jian-wei-zhi.md)
 * [充值页面相关](chong-zhi-ye-mian-xiang-guan.md)
   * [1.页面](chong-zhi-ye-mian-xiang-guan/1ye-mian.md)
 
