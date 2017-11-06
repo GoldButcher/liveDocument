@@ -20,11 +20,11 @@
 | 字段 | 类型 | 选项 | 说明 |
 | :---: | :---: | :---: | :---: |
 | id | String | 必填 | 用户id |
-| username | String | 选填 | 用户名 |
-| sex | String | 选填 | 用户性别 |
-| age | Integer | 选填 | 用户年龄 |
-| imgUrl | String | 选填 | 用户头像 |
-| signature | String | 选填 | 用户个性签名 |
+| username | String | 必填 | 用户名 |
+| sex | String | 必填 | 用户性别 |
+| age | Integer | 必填 | 用户年龄 |
+| imgUrl | String | 必填 | 用户头像 |
+| signature | String | 必填 | 用户个性签名 |
 
 * response字段示例
 
