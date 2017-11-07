@@ -15,6 +15,7 @@
   * [1.获取房间列表信息](fang-jian-xiang-guan/1fang-jian-chuang-jian.md)
   * [2.修改位置信息](fang-jian-xiang-guan/2xiu-gai-fang-jian-wei-zhi.md)
   * [3.修改房间标题](fang-jian-xiang-guan/3xiu-gai-fang-jian-biao-ti.md)
+  * [4.获取房间内用户](fang-jian-xiang-guan/4huo-qu-fang-jian-nei-yong-hu.md)
 * [充值页面相关](chong-zhi-ye-mian-xiang-guan.md)
   * [1.页面](chong-zhi-ye-mian-xiang-guan/1ye-mian.md)
 * [礼物相关](li-wu-xiang-guan.md)
