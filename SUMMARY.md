@@ -17,6 +17,7 @@
   * 3.修改房间标题
 * [充值页面相关](chong-zhi-ye-mian-xiang-guan.md)
   * [1.页面](chong-zhi-ye-mian-xiang-guan/1ye-mian.md)
-* 礼物相关
+* [礼物相关](li-wu-xiang-guan.md)
   * [1.获取礼物列表](1huo-qu-li-wu-lie-biao.md)
+* 2.赠送礼物
 
