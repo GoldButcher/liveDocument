@@ -14,10 +14,11 @@
 * [房间相关](fang-jian-xiang-guan.md)
   * [1.获取房间列表信息](fang-jian-xiang-guan/1fang-jian-chuang-jian.md)
   * [2.修改位置信息](fang-jian-xiang-guan/2xiu-gai-fang-jian-wei-zhi.md)
-  * 3.修改房间标题
+  * [3.修改房间标题](fang-jian-xiang-guan/3xiu-gai-fang-jian-biao-ti.md)
 * [充值页面相关](chong-zhi-ye-mian-xiang-guan.md)
   * [1.页面](chong-zhi-ye-mian-xiang-guan/1ye-mian.md)
 * [礼物相关](li-wu-xiang-guan.md)
   * [1.获取礼物列表](1huo-qu-li-wu-lie-biao.md)
-* 2.赠送礼物
+  * [2.赠送礼物](2zeng-song-li-wu.md)
+  * [3.收到的礼物数量](3shou-dao-de-li-wu-shu-liang.md)
 
