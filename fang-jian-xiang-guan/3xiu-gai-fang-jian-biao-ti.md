@@ -8,14 +8,14 @@
 
 ```
 {
-    "roomId":"111",
+    "roomId":111,
     "title":"厉害"
 }
 ```
 
 | 字段 | 类型 | 选项 | 说明 |
 | :---: | :---: | :---: | :---: |
-| roomId | String | 必填 | 房间号ID |
+| roomNum | Integer | 必填 | 房间号ID |
 | title | String | 必填 | 房间标题 |
 
 * response字段示例
