@@ -47,7 +47,8 @@
                 "currentAppId": "1400044902",
                 "phone": "589"
             }
-        ]
+        ],
+        "roomNumber":1
     },
     "errorCode": "0",
     "errorInfo": ""
