@@ -8,10 +8,10 @@
 
 ```Json
 {
-	"roomNum":256,
-	"role":1,
-	"first":0,
-	"max":10
+    "roomNum":256,
+    "role":1,
+    "first":0,
+    "max":10
 }
 ```
 
