@@ -48,12 +48,16 @@
                 "phone": "589"
             }
         ],
-        "roomNumber":1
+        "userNumber":1
     },
     "errorCode": "0",
     "errorInfo": ""
 }
 ```
+
+| 字段 | 类型 | 说明 |
+| :--- | :--- | :--- |
+|  |  |  |
 
 
 
