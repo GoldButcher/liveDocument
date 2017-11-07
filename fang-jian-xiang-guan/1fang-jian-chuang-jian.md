@@ -8,13 +8,15 @@ request字段示例
 
 ```json
 {
-    "roomId":"111"
+    "roomId":"111",
+    "roomNum":222
 }
 ```
 
 | 字段 | 类型 | 选项 | 说明 |
 | :---: | :---: | :---: | :---: |
 | roomId | String | 必填 | 房间ID，用于获取房间信息 |
+| roomNum | Integer | 必填 | 房间号，用于获取房间人数 |
 
 response字段示例
 
