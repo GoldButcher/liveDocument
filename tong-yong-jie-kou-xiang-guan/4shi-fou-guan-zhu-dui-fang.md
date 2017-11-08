@@ -18,5 +18,17 @@
 | userId | String | 必填 | 用户id |
 | followed | String | 必填 | 查询对方id |
 
+* response字段示例
+
+```
+{
+    "data": {
+        "isFollow": true
+    },
+    "errorCode": "0",
+    "errorInfo": ""
+}
+```
+
 
 
