@@ -2,7 +2,7 @@
 
 * 请求url
 
-> [http://118.32.2.202:8080/zhibo/follow/following](http://118.32.2.202:8080/zhibo/follow/following)
+> [http://118.32.2.202:8080/zhibo/follow/getMyFollowing](http://118.32.2.202:8080/zhibo/follow/following)
 
 * request请求字段示例
 
