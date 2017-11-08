@@ -25,6 +25,7 @@
 ```
 {
     "data": {
+        "followingNumber": 1,
         "following": [
             {
                 "user": {
@@ -81,6 +82,7 @@
 | 字段 | 类型 | 说明 |
 | :---: | :---: | :---: |
 | following | Array | 关注用户数组 |
+| followingNumber | Integer | 关注用户总数 |
 
 * follow数组字段
 
