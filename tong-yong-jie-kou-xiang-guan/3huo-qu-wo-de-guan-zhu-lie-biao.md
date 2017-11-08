@@ -8,13 +8,17 @@
 
 ```Json
 {
-    "userId":"111"
+    "userId":"111",
+    "first":0,
+    "max":10
 }
 ```
 
 | 字段 | 类型 | 选项 | 说明 |
 | :---: | :---: | :---: | :---: |
 | userId | String | 必填· | 用户id |
+| first | Integer | 必填 | 分页第一条数据编号 |
+| max | Ingeger | 必填 | 分页每页数据数量 |
 
 * response字段示例
 
