@@ -72,12 +72,21 @@
                 "roomNum": -1,
                 "avtive": false
             }
-        ]
+        ],
+        "userNumber": 2
+        
     },
     "errorCode": "0",
     "errorInfo": ""
 }
 ```
+
+* response字段
+
+| 字段 | 类型 | 说明 |
+| :---: | :---: | :---: |
+| following | Array | 关注用户数组 |
+| userNumber | Integer | 人数 |
 
 * follow数组字段
 
