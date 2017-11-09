@@ -2,7 +2,7 @@
 
 * 请求url
 
-> [http://118.32.2.202:8080/zhibo/loveroom/editTitle](http://118.32.2.202:8080/zhibo/loveroom/editTitle)
+> [http://118.32.2.202:8080/zhibo/liveroom/editTitle](http://118.32.2.202:8080/zhibo/loveroom/editTitle)
 
 * request字段示例
 
