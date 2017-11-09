@@ -2,9 +2,9 @@
 
 * 请求url
 
-> [http://118.32.2.202:8080/zhibo/giftRecord/userReceive](http://118.32.2.202:8080/zhibo/giftRecord/userReceive)\(收到的礼物\)
+> [http://118.32.2.202:8080/zhibo/giftRecord/giftReceive](http://118.32.2.202:8080/zhibo/giftRecord/userReceive)\(收到的礼物\)
 >
-> [http://118.32.2.202:8080/zhibo/giftRecord/userSend\(送出的礼物](http://118.32.2.202:8080/zhibo/giftRecord/userSend%28送出的礼物\)\)
+> [http://118.32.2.202:8080/zhibo/giftRecord/giftSend\(送出的礼物](http://118.32.2.202:8080/zhibo/giftRecord/userSend%28送出的礼物%29\)\)
 
 * request字段示例
 
