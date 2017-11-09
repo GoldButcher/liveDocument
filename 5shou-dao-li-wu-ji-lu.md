@@ -2,9 +2,9 @@
 
 * 请求url
 
-> [http://118.32.2.202:8080/zhibo/giftRecord/userReceive](http://118.32.2.202:8080/zhibo/giftRecord/userReceive)\(收到的礼物\)
+> [http://118.32.2.202:8080/zhibo/giftRecord/giftReceive](http://118.32.2.202:8080/zhibo/giftRecord/userReceive)\(收到的礼物\)
 >
-> [http://118.32.2.202:8080/zhibo/giftRecord/userSend\(送出的礼物](http://118.32.2.202:8080/zhibo/giftRecord/userSend%28送出的礼物\)\)
+> [http://118.32.2.202:8080/zhibo/giftRecord/giftSend\(送出的礼物](http://118.32.2.202:8080/zhibo/giftRecord/userSend%28送出的礼物%29%29\)\)
 
 * request字段示例
 
@@ -27,20 +27,22 @@
 ```
 {
     "data": {
-        "total": 3,
+        "total": 29,
         "giftRecords": [
             {
-                "id": "40289f585f9acdc8015f9acf5bbd0004",
-                "createDate": null,
+                "id": "40289f585f9ece19015f9ecf06640004",
+                "createDate": 1510197888000,
                 "modifyDate": null,
                 "creater": null,
                 "modifier": null,
-                "fromUserId": "178",
-                "toUserId": "589",
+                "fromUserId": "589",
+                "toUserId": "178",
                 "giftId": "40289f585f9420a6015f9422c8c6001e",
                 "number": 1,
                 "imgUrl": "http://192.168.31.216:8080/bikexImg/product/2017-11-07-09/40-24-2017.10.10-2.jpg",
-                "name": "飞机哦"
+                "name": "飞机哦",
+                "toUsername": null,
+                "fromUsername": "哈哈"
             }
         ]
     },
