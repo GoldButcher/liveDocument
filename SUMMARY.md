@@ -17,7 +17,7 @@
   * [2.修改位置信息](fang-jian-xiang-guan/2xiu-gai-fang-jian-wei-zhi.md)
   * [3.修改房间标题](fang-jian-xiang-guan/3xiu-gai-fang-jian-biao-ti.md)
   * [4.获取房间内用户](fang-jian-xiang-guan/4huo-qu-fang-jian-nei-yong-hu.md)
-* [充值页面相关](chong-zhi-ye-mian-xiang-guan.md)
+* [页面相关](chong-zhi-ye-mian-xiang-guan.md)
   * [1.页面](chong-zhi-ye-mian-xiang-guan/1ye-mian.md)
 * [礼物相关](li-wu-xiang-guan.md)
   * [1.获取礼物列表](1huo-qu-li-wu-lie-biao.md)
@@ -25,4 +25,5 @@
   * [3.收到的礼物数量](3shou-dao-de-li-wu-shu-liang.md)
   * [4.收到的礼物列表以及用户信息](5shou-dao-de-li-wu-lie-biao.md)
   * [5.礼物记录](5shou-dao-li-wu-ji-lu.md)
+  * [6.礼物页面](6li-wu-ye-mian.md)
 
